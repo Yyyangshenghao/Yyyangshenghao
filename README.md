@@ -6,4 +6,4 @@
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-<img src="https://moon-svg.minung.dev/moon.svg?theme=dark" width="120" />
+<img src="https://moon-svg.minung.dev/moon.svg?theme=basic" width="120" />
