@@ -1,4 +1,4 @@
-# Yangshenghao
+# YSH
 
 Java / Spring 后端，TypeScript / Electron 全栈，偶尔写点 Go 和 Kotlin。喜欢把小工具做完整，不留半成品。
 
@@ -10,7 +10,6 @@ Java / Spring 后端，TypeScript / Electron 全栈，偶尔写点 Go 和 Kotlin
 | --- | --- |
 | [simple-music](https://github.com/Yyyangshenghao/simple-music) | Electron + React 跨平台桌面音乐播放器，网易云 / QQ 音乐双音源，Three.js 沉浸可视化、桌面歌词、动态壁纸 |
 | [YPM-Visualizer](https://github.com/Yyyangshenghao/YPM-Visualizer) | 基于 YesPlayMusic 二次开发，新增 Three.js 3D 可视化歌词界面 |
-| [MallChat](https://github.com/Yyyangshenghao/MallChat) | 企业级规范打底的电商 + IM 系统后端：购物车 / 订单 / 支付 / 推荐 / 搜索 |
 | [goani-cli](https://github.com/Yyyangshenghao/goani-cli) | Go 编写的命令行动漫播放器，支持多中文源搜索与播放 |
 | [BeanHighlight](https://github.com/Yyyangshenghao/BeanHighlight) | IntelliJ IDEA 插件，按颜色区分 Service / Mapper Bean |
 | [regret](https://github.com/Yyyangshenghao/regret) | 纯匿名后悔论坛，AI 幕后审核 + 浏览器指纹防刷 |
